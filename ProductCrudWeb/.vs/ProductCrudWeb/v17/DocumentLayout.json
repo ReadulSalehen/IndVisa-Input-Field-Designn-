@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|c:\\users\\sajib sorker\\downloads\\productcrudweb\\productcrudweb\\productcrudweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|solutionrelative:productcrudweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|c:\\users\\sajib sorker\\downloads\\productcrudweb\\productcrudweb\\productcrudweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|solutionrelative:productcrudweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|c:\\users\\sajib sorker\\downloads\\productcrudweb\\productcrudweb\\productcrudweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|solutionrelative:productcrudweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|c:\\users\\sajib sorker\\downloads\\productcrudweb\\productcrudweb\\productcrudweb\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|solutionrelative:productcrudweb\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|c:\\users\\sajib sorker\\downloads\\productcrudweb\\productcrudweb\\productcrudweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|solutionrelative:productcrudweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|c:\\users\\sajib sorker\\downloads\\productcrudweb\\productcrudweb\\productcrudweb\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|solutionrelative:productcrudweb\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|c:\\users\\sajib sorker\\downloads\\productcrudweb\\productcrudweb\\productcrudweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|solutionrelative:productcrudweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|c:\\users\\sajib sorker\\downloads\\productcrudweb\\productcrudweb\\productcrudweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|solutionrelative:productcrudweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|c:\\users\\sajib sorker\\downloads\\productcrudweb\\productcrudweb\\productcrudweb\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B87A7B1-2DB7-48EC-B74E-754F6DE837B3}|ProductCrudWeb\\ProductCrudWeb.csproj|solutionrelative:productcrudweb\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductCrudWeb\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ProductCrudWeb\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T16:16:13.827Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductCrudWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductCrudWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T19:08:48.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProductCrudWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProductCrudWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwEsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-24T17:38:39.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductCrudWeb\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "ProductCrudWeb\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T15:56:59.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductCrudWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductCrudWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T16:19:08.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProductCrudWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ProductCrudWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T19:21:16.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCrudWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\appsettings.json",
+              "RelativeToolTip": "ProductCrudWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T16:07:45.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductCrudWeb\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductCrudWeb\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T15:56:59.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\DB\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductCrudWeb\\DB\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sajib Sorker\\Downloads\\ProductCrudWeb\\ProductCrudWeb\\ProductCrudWeb\\DB\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductCrudWeb\\DB\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T15:56:59.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

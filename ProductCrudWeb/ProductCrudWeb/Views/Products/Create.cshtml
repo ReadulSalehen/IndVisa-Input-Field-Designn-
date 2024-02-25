@@ -1,0 +1,132 @@
+﻿@model ProductCrudWeb.Models.Product
+@{
+    ViewData["Title"] = "Create";
+}
+    
+    
+   <div class="images">
+    <img src="./Images/v1.png" alt="India Visa">
+   </div>
+
+  <div class="container">
+    <div class="row">
+        <div class="col-md-7">
+            <form asp-controller="Products" data-parsley-validate asp-action="Create" method="post">
+                <div class="col-md-12">
+                    <div class="col-md-6">
+                        <label for="txtCountry" class="form-label">Country/Region you are applying visa from<sup>*</sup></label>
+                    </div>
+                    <div class="col-md-6">
+                        <select type="text" class="form-control" id="txtCountry" required asp-for="Country">
+                            <option value="Select Country">Select Country</option>
+                            <option value="Bangladesh">Bangladesh</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="col-md-12">
+                    <div class="col-md-6">
+                        <label for="txtIndianMissionOffice" class="form-label">Indian Mission/Office<sup>*</sup></label>
+                    </div>
+                    <div class="col-md-6">
+                        <select type="text" class="form-control" id="txtIndianMissionOffice" required asp-for="IndianMissionOffice">
+                            <option value="Select Mission">Select Mission</option>
+                            <option value="BANGLADESH-CITTAGONG">BANGLADESH-CITTAGONG</option>
+                            <option value="BANGLADESH-DHAKA">BANGLADESH-DHAKA</option>
+                            <option value="BANGLADESH-KHULNA">BANGLADESH-KHULNA</option>
+                            <option value="BANGLADESH-RAJSHAHI">BANGLADESH-RAJSHAHI</option>
+                            <option value="BANGLADESH-SYLHET">BANGLADESH-SYLHET</option>
+                        </select>
+                    </div>
+                </div>
+
+
+
+                <div class="col-md-12">
+                    <div class="col-md-6">
+                        <label for="txtNationality" class="form-label">Nationality/Region<sup>*</sup></label>
+                    </div>
+                    <div class="col-md-6">
+                        <select type="text" class="form-control" id="txtNationality" required asp-for="Nationality">
+                            <option value="Select Country">Select Nationality</option>
+                            <option value="Bangladesh">Bangladesh</option>
+                        </select>
+                    </div>
+                </div>
+
+
+                <div class="col-md-12">
+                    <div class="col-md-6">
+                        <label for="txtDateofBirth" class="form-label">Date of Birth<sup>*</sup></label>
+                    </div>
+                    <div class="col-md-6">
+                        <input type="date" class="form-control" id="txtDateofBirth" asp-for="DateofBirth" required />
+                    </div>
+                </div>
+
+
+
+                <div class="col-md-12">
+                    <div class="col-md-6">
+                        <label for="txtEmailID" class="form-label">Email ID<sup>*</sup></label>
+                    </div>
+                    <div class="col-md-6">
+                        <input type="email" class="form-control" id="txtEmailID" asp-for="Email" required />
+                    </div>
+                </div>
+
+                <div class="col-md-12">
+                    <div class="col-md-6">
+                        <label for="txtExpectedDateOfArivel" class="form-label">Expected Date Of Arivel<sup>*</sup></label>
+                    </div>
+                    <div class="col-md-6">
+                        <input type="date" class="form-control" id="txtExpectedDateOfArivel" asp-for="ExpectedDateOfArivel" required />
+                    </div>
+                </div>
+
+                <div class="col-md-12">
+                    <div class="col-md-6">
+                        <label for="txtVisaType" class="form-label">Visa Type<sup>*</sup></label>
+                    </div>
+                    <div class="col-md-6">
+                        <select type="text" class="form-control" id="txtVisaType" required asp-for="VisaType">
+                            <option value="Select Mission">Select Visa Type</option>
+                            <option value="STUDENT-VISA">STUDENT-VISA</option>
+                            <option value="BUSINESS-VISA">BUSINESS-VISA</option>
+                            <option value="TOURIST-VISA">TOURIST-VISA</option>
+                            <option value="OFFICIAL-VISA">OFFICIAL-VISA</option>
+                            <option value="MEDICAL-VISA">MEDICAL-VISA</option>
+                        </select>
+                    </div>
+                </div>
+
+
+                <div class="col-md-12">
+                    <div class="col-md-6">
+                        <label for="txtPurpose" class="form-label">Purpose<sup>*</sup></label>
+                    </div>
+                    <div class="col-md-6">
+                        <select type="text" class="form-control" id="txtPurpose" required asp-for="Purpose">
+                            <option value="Select Mission">Select Purpose Type</option>
+                            <option value="SCHOOL EDUCATION IN INDIA">SCHOOL EDUCATION IN INDIA</option>
+                            <option value="TOURISM">TOURISM</option>
+                            <option value="MEDICAL-VISA">FOR PATIENTS</option>
+                        </select>
+                    </div>
+                </div>
+                <br />
+                <div class="col-md-12">
+                    <button type="submit" class="btn btn-primary">Continue</button>
+                </div>
+            </form>
+
+            <div class="images">
+                <img src="Images/v2.jpg" alt="India Visa">
+            </div>
+
+        </div>
+    </div>
+    
+  </div>
+    
+    
